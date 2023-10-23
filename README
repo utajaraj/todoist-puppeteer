@@ -1,0 +1,4 @@
+Before running the script please be sure to provide your Todoist credential.
+    On line 36 change add your email where is says <email>
+    On line 39 change add your password where is says <password>
+Don't get impatient with the holdFor questions, these delays are deliberate and they are there no to send request too fast and avoid bot bans.
